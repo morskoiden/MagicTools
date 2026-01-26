@@ -1,0 +1,19 @@
+# Menu
+form-title: "Magic Items Menu" # Name of the menu
+form-content: "Choose which item you want to take:" # Text (Description)
+form-button-sword: "Vampire Sword" # Sword button
+form-button-pickaxe: "Miner's Pickaxe" # Pickaxe button
+form-button-axe: "Lumberjack's Axe" # Axe button
+form-button-shovel: "Kid's Toy Shovel" # Shovel button
+sword-name: "Vampire Sword" # Sword name
+sword-lore: "§fThis sword was once held by §cDracula §fhimself\n§fWith a §e25%§f chance on hit, the opponent will receive the §8Wither §feffect\n§fIf the chance hits §e5%§f, the enemy will lose §61 heart §fand you will restore some health" # Sword description
+sword-message: "§8[§bMagic Items§8] §fYou have received the Vampire Sword" # Message when giving sword
+pickaxe-name: "Miner's Pickaxe" # Pickaxe name
+pickaxe-lore: "§fSo hot that ores are smelted §6instantly" # Pickaxe description
+pickaxe-message: "§8[§bMagic Items§8] §fYou have received the Miner's Pickaxe!" # Message when giving pickaxe
+axe-name: "Lumberjack's Axe" # Axe name
+axe-lore: "§fQuick and precise\nWith a §e5%§f chance, the loot is doubled" # Axe description
+axe-message: "§8[§bMagic Items§8] §fYou have received the Lumberjack's Axe!" # Message when giving axe
+shovel-name: "Kid's Toy Shovel" # Shovel name
+shovel-lore: "§fA boy was digging in a sandbox\nHis mom bought him this shovel and he began to shine\nWith a §e15%§f chance, something valuable and shiny will drop instead of sand" # Shovel description
+shovel-message: "§8[§bMagic Items§8] §fYou have received the Kid's Toy Shovel!" # Message when giving shovel

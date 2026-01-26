@@ -1,0 +1,9 @@
+name: MagicTools
+main: morskoi\MagicTools\MagicTools
+api: 5.27.1
+version: 1.0.0
+load: POSTWORLD
+author: morskoi den
+permissions:
+  magictools.cmd:
+    default: op
