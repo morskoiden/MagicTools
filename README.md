@@ -23,9 +23,5 @@ Toy Shovel
 ⚙️ Features
 Multi-language Support: Available in English, Russian, and Ukrainian.
 
-Clean Performance: Optimized for server stability.
-
-Intuitive UI: Easy-to-use interface for players.
-
 📌 Requirements
 FormsUI (Mandatory dependency)
