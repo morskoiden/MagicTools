@@ -77,11 +77,11 @@ class MagicToolsCommand extends Command
                 }
         });
         $form->setTitle($this->plugin->lang("form-title"));
-        $form->setContent($this->plugin->lang("form-content"), 0, "textures/items/netherite_sword");
-        $form->addButton($this->plugin->lang("form-button-sword"));
-        $form->addButton($this->plugin->lang("form-button-pickaxe"));
-        $form->addButton($this->plugin->lang("form-button-axe"));
-        $form->addButton($this->plugin->lang("form-button-shovel"));
+        $form->setContent($this->plugin->lang("form-content"));
+        $form->addButton($this->plugin->lang("form-button-sword"), 0, "textures/items/netherite_sword");
+        $form->addButton($this->plugin->lang("form-button-pickaxe"), 0, "textures/items/netherite_pickaxe");
+        $form->addButton($this->plugin->lang("form-button-axe"), 0, "textures/items/netherite_axe");
+        $form->addButton($this->plugin->lang("form-button-shovel"), 0, "textures/items/netherite_shovel");
         $p->sendForm($form);
     }
 }
