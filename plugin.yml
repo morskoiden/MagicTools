@@ -6,5 +6,5 @@ load: POSTWORLD
 author: morskoi den
 permissions:
   magictools.cmd:
-
     default: op
+
